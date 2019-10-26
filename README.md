@@ -14,7 +14,7 @@ Requirements
 Datasets
 - Datasets are provided for training and testing.  
 - The testing dataset is named "testSet". 
-- There are 3 training datasets used in the project, but only 1 training set is provided due to size ("dataSet_training"): 
+- There are 3 training datasets used in the project: 
  1) a subset for quick iterations, "dataSet_training"
  2) full training dataset, "dataSet"
  3) dataset with approximately 1,000 images per class, "dataSet_10000"
